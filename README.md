@@ -4,7 +4,7 @@
 
 An end-to-end Tableau data visualization and analytics project developed using the **Sample - Superstore** dataset.
 
- **Live Interactive Dashboard:** [Interact on Tableau Public](https://public.tableau.com/app/profile/hala.farid/viz/SalesDashboard_17054452542190/SalesDashboard?publish=yes)
+ **Live Interactive Dashboard:** [Interact on Tableau Public](https://public.tableau.com/views/SuperStoreDashboard_17060231827260/SalesStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
