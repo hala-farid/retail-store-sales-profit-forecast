@@ -18,6 +18,10 @@ The objective of this project was to transform raw retail data into actionable b
 3. **Advanced Visualizations:**
    * **Waterfall Charts** analyzing Sales and Sub-categories.
    * **Lollipop Charts** comparing Categories and Sales.
+
+<img width="1047" height="594" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/89b41b4e-6896-4469-a2c1-01215da397a1" />
+
+
 4. **Interactive Map Exploration:** Region-based performance map utilizing tooltips and acting as an interactive dashboard filter.
 
 <img width="1045" height="598" alt="Sales Details" src="https://github.com/user-attachments/assets/7f49c80a-7074-4158-a3e4-54d4bbc208d4" />
@@ -29,11 +33,13 @@ The objective of this project was to transform raw retail data into actionable b
 6. **KPI Scorecards:** Key performance indicators showing Total Sales, Total Profit, Profit Ratio, Quantity Count, and Customer Count.
 7. **Interactive Dashboards & Stories:**
    * **Product Dashboard:** Deep-dive into sales/profit by category, product name, and geography (State/Region).
+   
 <img width="1129" height="767" alt="Products Dashboard" src="https://github.com/user-attachments/assets/2567ae3c-bd72-4aef-bb90-71f77301f537" />
 
    * **Linked Overview Dashboard:** Fully integrated view of all analytical components.
 
    * **Tableau Story:** Storyboarding key insights for forecasting, category comparisons, and top/bottom performers.
+  
    <img width="1132" height="768" alt="Performance Dashboard" src="https://github.com/user-attachments/assets/2f35944f-d775-48a4-814c-9103c395142f" />
 
 
