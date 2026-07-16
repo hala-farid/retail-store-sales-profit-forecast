@@ -45,19 +45,11 @@ The objective of this project was to transform raw retail data into actionable b
 
 ---
 
-## Dashboards Preview
-
-*Here is a preview of the interactive workspace. Click the Tableau Public link above to interact with the full version!*
-
-![Dashboard Overview](<img width="1047" height="594" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/a456909b-6f45-4669-b41d-cfd8f1c96316" />
-)
-
----
 
 ##  How to Run the Project:
 
 ### Instructions:
-1. **Online (Recommended):** Simply click the [Tableau Public Link](https://public.tableau.com/app/profile/hala.farid/viz/SalesDashboard_17054452542190/SalesDashboard?publish=yes) to view and interact with the dashboards directly from your web browser. No software required!
+1. **Online (Recommended):** Simply click the [Tableau Public Link](https://public.tableau.com/views/SuperStoreDashboard_17060231827260/SalesStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view and interact with the dashboards directly from your web browser. No software required!
 2. **Locally:** 
    * Download the `Super Store Dashboard.twbx` file from this repository.
    * Open it using **Tableau Desktop** or the free **Tableau Reader**.
